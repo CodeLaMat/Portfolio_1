@@ -437,10 +437,10 @@ footer button {
 
 .fa {
   padding: 5px;
-  width: 40px;
+  width: 30px;
   vertical-align: middle;
   max-height: 30px;
-  margin: 5px;
+  margin: 3px;
   max-width: 160px;
   transition-duration: 1s;
 }
